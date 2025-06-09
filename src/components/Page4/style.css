@@ -1,0 +1,59 @@
+.page4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.card{
+    width: 360px;
+    height: 446px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #0000001A;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 360px;
+    height: 264px;
+}
+
+.card-price{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    
+}
+
+.card-price h1{
+    font-weight: 400;
+}
+
+.plus{
+    width: 36px;
+    height: 34px;
+    background-color: #DC780B;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.learn{
+    width: 150px;
+    height: 40px;
+    border: 1px solid #DC780B;
+    color: #DC780B;
+    background-color: white;
+    border-radius: 5px;
+}
