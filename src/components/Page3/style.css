@@ -1,0 +1,43 @@
+.page3{
+    display: flex;
+    gap: 40px;
+}
+
+.page3 img{
+    width: 600px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.page3-content{
+    width: 500px;
+    /* background-color: red; */
+    margin: 120px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.page3-content h3{
+    font-weight: 500;
+    color: #DC780B;
+    font-size: 20px;
+}
+
+.page3-content h1{
+    font-weight: 400;
+}
+
+.page3-content p {
+    color: #150C01;
+    font-weight: 200;
+}
+
+.page3-content button{
+    width: 150px;
+    height: 40px;
+    background-color: #DC780B;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

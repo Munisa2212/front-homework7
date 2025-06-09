@@ -1,0 +1,44 @@
+.page2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin: 100px 0;
+}
+
+.page2 h2{
+    font-weight: 400;
+    margin: 0 150px;
+    color: #DC780B;
+}
+
+.page2 h1{
+    font-weight: 400;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card img{
+    width: 120px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: red; */
+    width: 300px;
+    text-align: center;
+}
+
+.card p{
+    color: #150C01;
+    font-size: 15px;
+    font-weight: 300;
+}
