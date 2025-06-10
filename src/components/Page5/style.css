@@ -17,7 +17,7 @@
     padding: 40px;
 }
 
-.content{
+.content5{
     display: flex;
     flex-direction: column;
     margin: 140px 100px;
@@ -25,16 +25,16 @@
     width: 600px;
 }
 
-.content h2{
+.content5 h2{
     font-weight: 500;
     color: #DC780B;
 }
 
-.content h1{
+.content5 h1{
     font-weight: 500;
 }
 
-.content p {
+.content5 p {
     color: #150C01;
     font-weight: 300;
 }

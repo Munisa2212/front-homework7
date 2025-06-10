@@ -5,7 +5,7 @@ import img12 from "../../assets/img12.png"
 export default function Page5() {
   return (
    <div className="page5">
-        <div className="content">
+        <div className="content5">
             <h2>Take away</h2>
             <h1>Food Stalls with Persons but  to  Product marketing plane. </h1>
             <p>There are many things are needed to start the Fast Food Business. You need not only Just Food Stalls with Persons but also specialized equipmentwith Persons but also  Just Food Stalls with Persons.</p>
