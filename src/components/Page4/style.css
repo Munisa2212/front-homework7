@@ -3,10 +3,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 10px;
+    /* background-color: red; */
 }
 
-.card{
+.card4{
     width: 360px;
     height: 446px;
     display: flex;
@@ -16,7 +17,7 @@
     border-radius: 10px;
 }
 
-.card img{
+.card4 img{
     width: 360px;
     height: 264px;
 }
@@ -43,10 +44,11 @@
     align-items: center;
 }
 
-.cards{
+.cards4{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    justify-content: center;
 }
 
 .learn{
@@ -56,4 +58,22 @@
     color: #DC780B;
     background-color: white;
     border-radius: 5px;
+}
+
+.page4 h3{
+    color: #DC780B;
+    font-weight: 400;
+}
+
+.page4 h1{
+    font-weight: 500;
+}
+
+.description4{
+    /* background-color: red; */
+    width: 750px;
+    text-align: center;
+    color: #150C01;
+    font-weight: 200;
+    font-size: 15px;
 }
